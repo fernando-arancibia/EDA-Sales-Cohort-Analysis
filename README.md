@@ -1,4 +1,4 @@
-# EDA_Cohort_analysis
+# EDA Sales Cohort Analysis
 
 #### In the following notebook, the analysis of a set of data related to sales in a year is carried out with python libraries for data analysis such as pandas and plotly for data visualization. 
 #### The tasks are concentrated in two stages:
